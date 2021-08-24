@@ -1,0 +1,28 @@
+body{
+    background-image: url(timezone.jpg);
+}
+#navbarNav {
+    
+    text-shadow: black;
+    font-weight: normal;
+}
+
+.navbar:hover {
+    font-weight: bold;
+}
+.navbar{
+    width: auto;
+}
+
+.container {
+    background-color: rgb(248, 183, 4);
+    width: 550px;
+    
+}
+span{
+    font-weight:normal
+}
+p{
+    color:#000000;
+    font-size: large;
+}
